@@ -1,1 +1,4 @@
+pip install ipython
+pip install xarray
+
 jupyter labextension install jupyterlab_velocity
