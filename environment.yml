@@ -1,7 +1,44 @@
-name: xvelmap-environment
+name: xvelmap_env
 channels:
-  - conda-forge
+  - defaults
 dependencies:
-  - python
-  - xarray
-  - ipython
+  - appnope=0.1.0=py36hf537a9a_0
+  - ca-certificates=2017.08.26=ha1e5d58_0
+  - certifi=2018.1.18=py36_0
+  - decorator=4.2.1=py36_0
+  - intel-openmp=2018.0.0=h8158457_8
+  - ipython=6.2.1=py36h3dda519_1
+  - ipython_genutils=0.2.0=py36h241746c_0
+  - jedi=0.11.1=py36_0
+  - libcxx=4.0.1=h579ed51_0
+  - libcxxabi=4.0.1=hebd6815_0
+  - libedit=3.1=hb4e282d_0
+  - libffi=3.2.1=h475c297_4
+  - libgfortran=3.0.1=h93005f0_2
+  - mkl=2018.0.1=hfbd8650_4
+  - ncurses=6.0=hd04f020_2
+  - numpy=1.14.2=py36ha9ae307_0
+  - openssl=1.0.2n=hdbc3d79_0
+  - pandas=0.22.0=py36h0a44026_0
+  - parso=0.1.1=py36hc90e01c_0
+  - pexpect=4.4.0=py36_0
+  - pickleshare=0.7.4=py36hf512f8e_0
+  - pip=9.0.1=py36_5
+  - prompt_toolkit=1.0.15=py36haeda067_0
+  - ptyprocess=0.5.2=py36he6521c3_0
+  - pygments=2.2.0=py36h240cd3f_0
+  - python=3.6.4=hc167b69_3
+  - python-dateutil=2.7.0=py36_0
+  - pytz=2018.3=py36_0
+  - readline=7.0=hc1231fa_4
+  - setuptools=38.5.1=py36_0
+  - simplegeneric=0.8.1=py36_2
+  - six=1.11.0=py36h0e22d5e_1
+  - sqlite=3.22.0=h3efe00b_0
+  - tk=8.6.7=h35a86e2_3
+  - traitlets=4.3.2=py36h65bd3ce_0
+  - wcwidth=0.1.7=py36h8c6ec74_0
+  - wheel=0.30.0=py36h5eb2c71_1
+  - xarray=0.10.1=py36_0
+  - xz=5.2.3=h0278029_2
+  - zlib=1.2.11=hf3cbc9b_2
