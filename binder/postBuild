@@ -1,5 +1,5 @@
-conda install ipython
-conda install xarray
-conda install netcdf4
+pip install ipython
+pip install xarray
+pip install netcdf4
 
 jupyter labextension install jupyterlab_velocity
