@@ -13,3 +13,11 @@ jupyterlab.
 - [xarray](http://xarray.pydata.org)
 - [ipython](https://github.com/ipython/ipython)
 - [jupyterlab_velocity](https://github.com/benbovy/jupyterlab_velocity)
+
+## Installation
+
+```
+$ conda install -c conda-forge xarray netcdf4 jupyterlab nodejs
+$ jupyter labextension install jupyterlab_velocity
+$ pip install git+https://github.com/benbovy/xvelmap.git
+```
