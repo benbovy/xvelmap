@@ -1,3 +1,5 @@
+**This repository is archived**: it has been included in [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet).
+
 # xvelmap
 
 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab_on_binder-red.svg)](http://mybinder.org/v2/gh/benbovy/xvelmap/master?urlpath=lab)
